@@ -43,4 +43,4 @@ The system is built around the following primary tables:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/pharmacare-plus.git
+   git clone https://git@github.com:subhra98/Pharmacare-Plus.git
