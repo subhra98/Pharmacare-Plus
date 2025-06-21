@@ -36,6 +36,7 @@ The system is built around the following primary tables:
 - `Supplier`
 - `Medicine`
 - `Sales`
+- `Prescription`
 
 ---
 
